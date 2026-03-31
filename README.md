@@ -21,9 +21,9 @@ The analysis highlights a structural shift in franchise performance, with recent
 
 ## Dashboard Preview
 
-### Page 1 — Franchise Sales Overview
+### Page 1 — Franchise Sales Overview ![Page 3](images/page1_overview.png)
 
-![Page 1](images/page3_switch_era.png)
+![Page 3](images/page1_overview.png)
 
 ---
 
@@ -35,7 +35,7 @@ The analysis highlights a structural shift in franchise performance, with recent
 
 ### Page 3 — The Switch Era: Modern Sales Disruption
 
-![Page 3](images/page1_overview.png)
+![Page 1](images/page3_switch_era.png)
 
 ---
 
