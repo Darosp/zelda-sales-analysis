@@ -19,19 +19,23 @@ The analysis highlights a structural shift in franchise performance, with recent
 
 ---
 
-## Dashboard Structure
+## Dashboard Preview
 
 ### Page 1 — Franchise Sales Overview
 
-![Page 3](images/page3_switch_era.png)
+![Page 1](images/page3_switch_era.png)
+
+---
 
 ### Page 2 — Historical Sales Trends (1986–2016)
 
 ![Page 2](images/page2_historical_trends.png)
 
+---
+
 ### Page 3 — The Switch Era: Modern Sales Disruption
 
-![Page 1](images/page1_overview.png)
+![Page 3](images/page1_overview.png)
 
 ---
 
