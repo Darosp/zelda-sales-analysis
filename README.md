@@ -21,7 +21,7 @@ The analysis highlights a structural shift in franchise performance, with recent
 
 ## Dashboard Preview
 
-### Page 1 — Franchise Sales Overview ![Page 3](images/page1_overview.png)
+### Page 1 — Franchise Sales Overview 
 
 ![Page 3](images/page1_overview.png)
 
